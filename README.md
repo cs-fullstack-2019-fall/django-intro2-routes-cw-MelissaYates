@@ -1,5 +1,5 @@
 # Intro to Django routes/endpoints graded classwork 
-
+#### Please comment your code. Please use .gitignore. You manage to get both endpoints working and the challenge. Nice Job. Next time though define the challenge endpoint to be different then the index endpoint to help distinguish between them. 4/5 Scoure: 3/3
 Endpoints are the most important concept when it comes to backend web services.
 Based on the URL you route the request to the proper piece of code to service the request and return a response.
 
